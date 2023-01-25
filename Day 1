@@ -1,1 +1,22 @@
-# Learning Github
+# two leetcode problem done 
+tags - both are related to math (too much easy)
+
+ # Add Two Integers
+https://leetcode.com/problems/add-two-integers/description/
+
+class Solution {
+public:
+    int sum(int num1, int num2) {
+        return (num1 + num2);
+    }
+};
+ 
+ # Convert the Temperature
+ https://leetcode.com/problems/convert-the-temperature/description/
+ 
+class Solution {
+public:
+    vector<double> convertTemperature(double celsius) {
+        return {celsius + 273.15,celsius * 1.80 + 32.00};
+    }
+};
