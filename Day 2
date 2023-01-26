@@ -13,3 +13,14 @@ understanding from que :-
  4 find out digit by using modulo operator
  5 implement the condition if give int is within range or not if it is not there then return zero 
  6 return that assigned variable
+
+# Complement of Base 10 Integer
+(https://leetcode.com/problems/complement-of-base-10-integer)
+
+understanding from que 
+ 1 convert given integer into binary form
+ 2 compliment that binary form
+ 3 convert into decimal
+ 4 return decimal number
+ 
+ approach 
