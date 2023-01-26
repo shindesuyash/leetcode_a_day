@@ -1,0 +1,15 @@
+# Reverse Integer 
+(https://leetcode.com/problems/reverse-integer)
+
+#Medium
+
+understanding from que :-
+          reverse the given integer if integer is out of range from int then return zero
+
+ approach :-
+ 1 take input from user 
+ 2 run loop till give input is not equal to zero
+ 3 for storing reverse integer assign variable as zero
+ 4 find out digit by using modulo operator
+ 5 implement the condition if give int is within range or not if it is not there then return zero 
+ 6 return that assigned variable
